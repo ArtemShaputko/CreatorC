@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>Recources/add-document.png</file>
+        <file>Recources/copy-alt.png</file>
+        <file>Recources/folder-open.png</file>
+        <file>Recources/paste.png</file>
+        <file>Recources/redo.png</file>
+        <file>Recources/scissors.png</file>
+        <file>Recources/undo.png</file>
+        <file>Recourses-Black/add-document.png</file>
+        <file>Recourses-Black/copy-alt.png</file>
+        <file>Recourses-Black/folder-open.png</file>
+        <file>Recourses-Black/paste.png</file>
+        <file>Recourses-Black/redo.png</file>
+        <file>Recourses-Black/scissors.png</file>
+        <file>Recourses-Black/undo.png</file>
+        <file>Recourses-Black/diskette.png</file>
+        <file>Recourses-Black/save-as.png</file>
+        <file>logo.png</file>
+        <file>Recourses-Black/shuttle.png</file>
+    </qresource>
+    <qresource prefix="/fonts"/>
+</RCC>
